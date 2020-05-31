@@ -14,7 +14,7 @@ all: _output/$(ARCH)/metrics-server
 
 # Constants
 # =========
-ALL_ARCHITECTURES=amd64 arm arm64 ppc64le s390x
+ALL_ARCHITECTURES=amd64 386
 
 # Calculated Variables
 # ====================
